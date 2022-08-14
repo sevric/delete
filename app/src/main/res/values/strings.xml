@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">delete</string>
+    <string name="item_view_title_default_text">asdf</string>
+    <string name="recycler_view_item_image">1234567899</string>
+    <string name="go">Go</string>
+    <string name="nav_logo">nl</string>
+    <string name="nav_title">nt</string>
+    <string name="nav_menu_title_text">1</string>
+    <string name="nav_menu_item_ViewPager_text">2</string>
+    <string name="nav_menu_item_WebView_text">2</string>
+    <string name="nav_menu_item_RecyclerView_text">2</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_name">Image name</string>
+</resources>
